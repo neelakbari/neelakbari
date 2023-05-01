@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Neel Akbari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<table>
+  <tr>
+    <td valign="top">- 🔭 I’m currently working on **challenging projects**
 
+- 🌱 I’m currently learning **Reactjs**
+
+- 👨‍💻 All of my projects are available at [https://neelakbaridesigns.000webhostapp.com/](https://neelakbaridesigns.000webhostapp.com/)
+
+- 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html**
+
+- 📫 How to reach me **neelakbari15@gmail.com**</td>
+    <td valign="top">
+      
+      
+      ![gif](https://user-images.githubusercontent.com/112858087/235430379-4b6a14a2-744e-495c-a8ee-a1b784c29581.gif)
+
+    </td>
+  </tr>
+</table>
+<div display="flex">
+<div>
 - 🔭 I’m currently working on **challenging projects**
 
 - 🌱 I’m currently learning **Reactjs**
@@ -10,7 +30,11 @@
 - 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html**
 
 - 📫 How to reach me **neelakbari15@gmail.com**
+</div>
+ 
+![gif](https://user-images.githubusercontent.com/112858087/235429838-af369d24-1164-4b5a-9b8b-86ee4d9c6e41.gif)
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-akbari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-akbari/" height="30" width="40" /></a>
