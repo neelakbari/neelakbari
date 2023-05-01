@@ -11,14 +11,16 @@
 - 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html**
 
 - 📫 How to reach me **neelakbari15@gmail.com**</td>
-    <td valign="top">
-      
-      
-      ![gif](https://user-images.githubusercontent.com/112858087/235430379-4b6a14a2-744e-495c-a8ee-a1b784c29581.gif)
 
-    </td>
+      
+      
+     
+
+    
   </tr>
 </table>
+
+ ![](https://github.com/neelakbari/neelakbari/blob/main/gif.gif)
 <div display="flex">
 <div>
 - 🔭 I’m currently working on **challenging projects**
