@@ -12,7 +12,10 @@
 
 - 📫 How to reach me **neelakbari15@gmail.com**</td>
 
+      <td valign="top">
       
+ ![](https://github.com/neelakbari/neelakbari/blob/main/gif.gif)
+      </td>
       
      
 
@@ -20,7 +23,6 @@
   </tr>
 </table>
 
- ![](https://github.com/neelakbari/neelakbari/blob/main/gif.gif)
 <div display="flex">
 <div>
 - 🔭 I’m currently working on **challenging projects**
