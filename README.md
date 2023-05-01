@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Akbari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
 <table>
   <tr>
     <td valign="top">- 🔭 I’m currently working on **challenging projects**
@@ -11,18 +13,10 @@
 - 💬 Ask me about **JavaScript, React, Tailwind, CSS, Html**
 
 - 📫 How to reach me **neelakbari15@gmail.com**</td>
-
-      <td valign="top">
-      
- ![](https://github.com/neelakbari/neelakbari/blob/main/gif.gif)
-      </td>
-      
-     
-
-    
+    <td valign="top">![](https://github.com/neelakbari/neelakbari/blob/main/gif.gif)</td>
   </tr>
 </table>
-
+ 
 <div display="flex">
 <div>
 - 🔭 I’m currently working on **challenging projects**
